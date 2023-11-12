@@ -1,6 +1,10 @@
 # ONELEAF.ICU
 
-Oneleaf Download Site
+Oneleaf aims at helping worldwide people to download from pan.baidu.com. Multiple ways are procided: Account or Downloader.
+
+For the previous one, you can [apply](https://oneleaf.icu/account-free.html) for free account for small file download, or [purchase](https://oneleaf.icu/account.html) affordable account to download larger files.
+
+For who wont install baidu client, you can try our [downloader service](https://oneleaf.icu) with open-souced [Motrix App](https://motrix.app). You need to pay attention this service consumes baidu SVIP account (i.e. premium account), so it only works at 16:00 UTC due to blocks from baidu.
 
 Link: https://oneleaf.icu
 
